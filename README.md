@@ -4,7 +4,7 @@
 
 ### ✔ 주제
 
-영화 리뷰를 입력받아 감성(긍정, 부정 여부) 분석을 하는 모델 빌드 및 학습
+: 영화 리뷰를 입력받아 감성(긍정, 부정 여부) 분석을 하는 모델 빌드 및 학습
 
 
 
@@ -30,5 +30,5 @@
 
 ### ✔ 사용 라이브러리
 
-Os, Datetime, Multiprocessing, Matplotlib, Pandas, Numpy, Konlpy, Tensorflow
+: Os, Datetime, Multiprocessing, Matplotlib, Pandas, Numpy, Konlpy, Tensorflow
 
