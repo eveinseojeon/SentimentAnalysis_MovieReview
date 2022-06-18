@@ -30,6 +30,5 @@
 
 ### ✔ 사용 라이브러리
 
-- Konlpy
-- Tensorflow
+Pandas, Numpy, Matplotlib, Datetime, Multiprocessing, Konlpy, Tensorflow
 
