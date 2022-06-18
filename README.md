@@ -1,19 +1,13 @@
 ## 영화 리뷰 감성 분석
 
-
-
 ### ✔ 주제
 
 : 영화 리뷰를 입력받아 감성(긍정, 부정 여부 및 확률) 분석을 하는 모델 빌드 및 학습
-
-
 
 ### ✔ 데이터
 
 - 오픈소스 데이터: [train](https://raw.githubusercontent.com/e9t/nsmc/master/ratings_train.txt), [test](https://raw.githubusercontent.com/e9t/nsmc/master/ratings_test.txt)
 - [네이버 영화 리뷰 페이지](https://movie.naver.com/movie/point/af/list.naver?&page=1)에서 크롤링
-
-
 
 ### ✔ 수행 방법
 
@@ -25,8 +19,6 @@
 6. 모델 학습
 7. 네이버 영화 리뷰 데이터 크롤링
 8. 모델 추가 학습
-
-
 
 ### ✔ 사용 라이브러리
 
